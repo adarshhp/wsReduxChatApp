@@ -52,7 +52,7 @@ function Routers() {
           <Route path="/crypto" element={<Crypto />} />
           <Route path="/mouse-track" element={<MouseTrack />} />
           <Route path="/collapse" element={<Collapse />} />
-          <Route path="/movingplus" element={<Movingplus />} /> */}
+          <Route path="/movingplus" element={<Movingplus />} /> checking initialization */}
         </Routes>
       </div>
     </Router>
